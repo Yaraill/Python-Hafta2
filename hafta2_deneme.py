@@ -1,0 +1,1 @@
+print("Merhaba, Python Haftası 2 Denemesi!")
