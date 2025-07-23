@@ -1,6 +1,6 @@
 # Python Hafta 2 Kod Denemeleri
 
-Bu depo, Python öğrenim yolculuğumdaki Hafta 2'ye ait kod örneklerimi içermektedir.
+Bu repo, Python öğrenim yolculuğumdaki Hafta 2'ye ait kod örneklerimi içermektedir.
 
 ## İçerik:
 
