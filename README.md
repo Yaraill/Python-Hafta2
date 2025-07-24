@@ -13,8 +13,3 @@ Bu repo, Python öğrenim yolculuğumdaki Hafta 2'ye ait kod örneklerimi içerm
 ## Kullanım:
 
 Kodları çalıştırmak için Python 3 yüklü olmalıdır. Her bir `.py` dosyasını doğrudan çalıştırarak denemeler yapabilirsiniz.
-
-## İletişim:
-
-* GitHub: [Yaraill](https://github.com/Yaraill)
-* Email: hyasirpost@gmail.com 
